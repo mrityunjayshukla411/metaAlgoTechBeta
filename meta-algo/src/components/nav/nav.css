@@ -1,0 +1,26 @@
+.navbar
+{
+    background-color:white;
+}
+.navbar-nav
+{
+    margin-left: 80%;
+    @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+    font-family: 'Ubuntu Mono', monospace;
+    font-size:larger;
+}
+.nav-link
+{
+    margin: 0 1.5vw ;
+    transition: border-radius  0.3s;
+    
+}
+.nav-link:hover
+{
+    background-color:rgb(195, 242, 246);
+    color:white;
+    border-radius:1vw;
+}
+/* .nav-button
+{
+} */
