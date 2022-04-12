@@ -5,7 +5,7 @@ function Nav() {
     <div >
       <nav className="navbar navbar-expand-lg navbar-light">
         <div className="container">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand nav-link" href="/">
             MetaAlgoTech
           </a>
           <button
@@ -24,10 +24,10 @@ function Nav() {
               <a className="nav-link  nav-button active" aria-current="page" href="/product">
                 MetaAl
               </a>
-              <a className="nav-link  nav-button " href="/about">
+              <a className="nav-link  nav-button" href="/about">
                 About
               </a>
-              <a className="nav-link nav-button " href="/login">
+              <a className="nav-link nav-button" href="/login">
                 Login
               </a>
             </div>

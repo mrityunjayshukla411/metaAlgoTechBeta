@@ -13,14 +13,11 @@
 {
     margin: 0 1.5vw ;
     transition: border-radius  0.3s;
-    
 }
 .nav-link:hover
 {
     background-color:rgb(195, 242, 246);
     color:white;
     border-radius:1vw;
+    text-decoration: none;
 }
-/* .nav-button
-{
-} */
